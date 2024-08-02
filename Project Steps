@@ -1,0 +1,33 @@
+🚀 Thrilled to share my latest project where I developed a movie recommendation app using unsupervised machine learning techniques and various Python libraries! 🎥📈
+
+Here are the key steps I followed:
+
+1️⃣ *Import Libraries*: Imported essential libraries such as NumPy, pandas, and seaborn. Installed the fuzzywuzzy library for fuzzy matching.
+
+2️⃣ *Load Data*: Loaded the movies and ratings datasets using pandas.
+
+3️⃣ *Data Analysis*: Performed basic data analysis with the shape() function.
+
+4️⃣ *Handle Missing Values*: Used the fillna() method to replace missing values with 0.
+
+5️⃣ *Install scipy*: Installed the scipy library and utilized the concept of CSR matrix in scipy.
+
+6️⃣ *Model Building*: Employed the Nearest Neighbour and KMeans methods from scikit-learn to build the recommendation model.
+
+7️⃣ *Fuzzy Matching*: Used fuzzywuzzy to find the index of movies through fuzzy matching.
+
+8️⃣ *Cluster Prediction*: Predicted clusters for the selected movies and grouped all movies within the same cluster.
+
+9️⃣ *Recommendation Filtering*: Removed the selected movie from the recommendations and limited the results to the top N recommendations.
+
+🔟 *Output Recommendations*: Printed the final list of suggested movies.
+
+1️⃣1️⃣ *System Development*: Built the movie recommender system.
+
+1️⃣2️⃣ *App Deployment*: Developed an interactive app using the Streamlit library for deployment.
+
+This project has been a fantastic journey in applying unsupervised learning techniques and leveraging Python libraries to build an efficient and engaging movie recommendation system.
+
+Stay tuned for more updates and detailed insights into each phase of this exciting journey!
+
+#MachineLearning #DataScience #MovieRecommendation #UnsupervisedLearning #Python #LinkedInLearning
